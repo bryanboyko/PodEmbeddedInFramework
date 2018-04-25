@@ -1,0 +1,6 @@
+framework module Pods_FrameworkWithFANTests {
+  umbrella header "Pods-FrameworkWithFANTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
